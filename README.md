@@ -4,36 +4,34 @@
 
 </p>
 
-This is a repository for a BepInEx plugin to load custom movestyles for the game *Bomb Rush Cyberfunk* 
-
-This is retooling of Giygas's CrewBoom and there are still numerous references to Crewboom code. Shoutout to Giygas for their work.
+This is a repository for a BepInEx plugin for *Bomb Rush Cyberfunk*. It allows you to create and complete custom Combolines.
 
 ## Usage
+The mod should automatically send you a notification in your phone messages to explain how to use the mod.
 
-Use the keys 'G,H' to navigate through default and custom movestyles
+#Create Lines
+1. You can use the app to start a custom path. It will record your path until you drop you combo.
+2. You can either test the line by interaction with the hologram disk or use the call button to create an Ai to follow your path. *Note AI are dumb and will often fail
+3. You can either Save the current line or choose to create a new one.
+4. Your current active line will be orange. Once you save it will become green.
+
+# Completing Lines
+1. If you create or load a Line you can start an encounter
+2. You will need to follow the path by reading the markers
+3. You are required to complete any trick/grinds/boosts ect as shown in the path.
+4. Once you reach the end it will complete the line. Completions are automatically saved. Complete line will turn grey.
+
+# Adding/ Sharing SickLines
+This mod allows you to save a .path file to share your lines with others. 
+1. You can choose to save your current Line through the app. If you do it will be saved in the config folder.
+2. Navigate to your BepInEx installation for the game and open the `BepInEx/config/Sicklines/` folder
+3. You can add or remove .path files from this directory
+
+Completing Lines
 
 ## Downloads, instructions and help
 
-### [Plugin](https://github.com/arikidev/MoveStyler/releases)
-### [Unity project](https://github.com/arikidev/MoveStyler/releases/tag/WIP-0.1-Proj)
-### [Example Movestyle](https://github.com/arikidev/MoveStyler/releases/tag/WIP_0.1_Example)
-
-To create a movestyle mod you will need both of these. If you just want to use a character you downloaded, you only need the plugin. 
-The project works similar to Crew Boom so you can look at the instructions there for help.
-
-## How to:
-1. Copy or create your own animator. BRC uses specific naming of the states in the animator to call animations. Refer to the example in the proj for reference. (I recomend copying one of the templates)
-2. Import any new assets. Meshes and animations.
-3. Change any animations that you want in your new animator
-
-### Create a prefab
-1. Add an empty transform
-2. Add a animator component and assign your new animator
-3. Add one or more mesh render components. remove any collision
-4. Save the prefab
-5. Right Click the prefab and use MoveStyler/Create Custom Movestyle.
-6. Adjust the settings in your new custom Movestyle asset
-7. Click -> Build Custom MoveStyle.
+### [Plugin](https://github.com/arikidev/Sicklines/releases)
 
 ## Installation
 
@@ -48,23 +46,6 @@ To install BepInEx, follow these steps:
 1. Open r2modman and select *Bomb Rush Cyberfunk* as the game and choose any profile
 2. Navigate to the *Online* tab
 3. Find *BepInEx Pack* by BepInEx and install it
-
-## Adding movestyles
-
-1. Navigate to your BepInEx installation for the game and open the `BepInEx/config/MoveStyler/` folder
-2. Copy your character files (.cbb and .json) into the `MoveStyler` folder
-
-
-## Building the plugin
-
-This pertains to if you want to build the plugin yourself, not the Unity project.  
-
-You will need to copy Bomb Rush Cyberfunk's `Assembly-CSharp.dll` into the `Libraries` folder of the project, as it is not provided.  
-It can be found at `<path to where your games are stored>\BombRushCyberfunk\Bomb Rush Cyberfunk_Data\Managed`
-
-## Authors and acknowledgment
-
-This project was based on [CrewBoom] by SGiygas https://github.com/SGiygas/CrewBoom
 
 ## License
 This project is licensed under the GNU General Public License v3.0
