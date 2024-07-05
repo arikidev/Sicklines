@@ -1,0 +1,9 @@
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\bin\Release\net35\SicklinesMono.dll
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\bin\Release\net35\SicklinesMono.pdb
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\PluginInfo.cs
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.AssemblyInfoInputs.cache
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.AssemblyInfo.cs
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.csproj.CoreCompileInputs.cache
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.dll
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SicklinesMono\obj\Release\net35\SicklinesMono.pdb

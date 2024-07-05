@@ -1,0 +1,10 @@
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\PluginInfo.cs
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.AssemblyInfoInputs.cache
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.AssemblyInfo.cs
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.csproj.CoreCompileInputs.cache
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\bin\Release\net35\SpawnCrewMono.dll
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\bin\Release\net35\SpawnCrewMono.pdb
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.dll
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.pdb
+C:\Users\Ariki\Desktop\Mod\Git\SpawnCrew\SpawnCrewMono\obj\Release\net35\SpawnCrewMono.csproj.AssemblyReference.cache
